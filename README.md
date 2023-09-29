@@ -15,3 +15,4 @@
 2. If the user is not found the following input shows a message "User not found **go back**"
 3. When click **go back** show again all users.
 4. When a person finds a user using input, if is it empty show an alert.
+5. When someone searches for a person by inputting a name, the user's name list should come character-wise. 
